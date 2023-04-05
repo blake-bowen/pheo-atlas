@@ -1,3 +1,6 @@
-# pheo-atlas
+# snRNA-seq atlas of pheochromocytoma and paraganglioma paper
+This repository contains code for analysis and figures used in the study "Single-nuclei gene-expression analysis of pheochromocytoma and paraganglioma links disease subtypes with tumor microenvironment" by Magnus Zethoven, Luciano Martelotto, Andrew Pattison, Blake Bowen, Shiva Balachander, Aidan Flynn, Fernando J. Rossello, Annette Hogg, Zdenek Frysak, Sean Grimmond, Lauren Fishbein, Arthur S. Tischler, Anthony J. Gill, Rodney J. Hicks, Patricia L. M. Dahia, Roderick Clifton-Bligh, Karel Pacak, Richard W. Tothill
 
-Selected analyses I performed for the study "Single-nuclei and bulk-tissue gene-expression analysis of pheochromocytoma and paraganglioma links disease subtypes with tumor microenvironment" in collaboration with the University of Melbourne Centre for Cancer Research Rare Disease Oncogenomics Laboratory. Please see the [Nature Communications article](https://www.nature.com/articles/s41467-022-34011-3) and the [main project repository](https://github.com/UMCCR-RADIO-Lab/snRNA-seq-atlas-of-pheochromocytoma-and-paraganglioma).
+
+## figures 
+code for reproducing figure panels 
